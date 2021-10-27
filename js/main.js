@@ -1,3 +1,5 @@
+"use strict";
+
 const  handleClick = () => {
     const aButtons = document.querySelectorAll('.button');
     aButtons.forEach((oButton) =>{

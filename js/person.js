@@ -1,3 +1,5 @@
+"use strict";
+
 const personDataLog = ({
     firstname = 'John',
     lastname = 'Doe',
